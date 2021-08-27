@@ -1,2 +1,4 @@
 # coursework
-A compilation of projects and reports created for my M.S. Applied Information Technology program
+A compilation of projects and reports created for my M.S. Applied Information Technology program.
+
+1. Armington_AIT735_FinalProjectSubmission_Redacted.pdf was my final thesis project for the class Case Study in Database Management Systems. The purpose of the case study was to demonstrate knowledge of database design, architecture, implementation and maintenance using a real-world scenario. We were required to choose an existing company, come up with a business need based on the goals and objectives of the company, and design a database system that addresses that need. We were required to research the company, analyze the problem, specify the requirements, design the system/database architecture, estimate the schedule for the completion of the project and create a working prototype of the system. I chose to design database system for one of my previous employers. However, my project has been redacted in order to keep the company anonymous.
